@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://haywardpestcontrolco.com/sitemap.xml
